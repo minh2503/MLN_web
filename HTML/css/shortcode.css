@@ -579,7 +579,7 @@
 }
 
 .onview-section2 .onview-right {
-	background-image: url("../images/onview-bg2.jpg");
+	/* background-image: url("../images/onview-bg2.jpg"); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
@@ -2316,7 +2316,7 @@
 
 /* - Call Out */
 .call-out {
-	background-image: url("../images/callout-bg.jpg");
+	/* background-image: url("../images/callout-bg.jpg"); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
@@ -2325,7 +2325,7 @@
 }
 
 .call-out::before {
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: black;
 	bottom: 0;
 	content: "";
 	display: inline-block;
